@@ -1,6 +1,6 @@
 ## Hi there 👋 
-**I'm Himanshu Badera
-**I'm a Data Scientist!
+** I'm Himanshu Badera **
+** I'm a Data Scientist! **
 
 
 I am a graduate student at the University of Houston pursuing master's in Data Science. Driven by new challenges, brings in strong problem-solving, analytical, and data science skills along with a can-do attitude.

@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋 
+## I'm Himanshu
 
-<!--
-**hbadera/hbadera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Data Scientist!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate student at the University of Houston pursuing master's in Data Science. Driven by new challenges, brings in strong problem-solving, analytical, and data science skills along with a can-do attitude.
+
+I have a deep passion for technology and a good grasp on data science and analytics, big data, machine learning, neural networks, and deep learning. I have worked on several projects and used these skills.
+
+My expertise lies in:
+
+✅ Programming: Python, MySQL, Tableau, Microsoft Excel (Pivot Tables, StatTools).
+
+✅ Softwares: Jupyter Notebook, Visual Studio Code, PyCharm, Git
+
+✅ Libraries: Pandas, NumPy, Matplotlib, Keras, TensorFlow, Scikit Learn, Numba
+
+✅ Big Data & Machine Learning: AWS, Hadoop, Docker, Jupyter, Git, Python (Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn)
+
+✅ Focus On: Machine Learning concepts and tools, Deep Learning, and Neural Networks, Datajoint
+
+✅ Data Science & Miscellaneous Skills: Regression, Classification, EDA, Visualization, Feature Engineering, Clustering, Dimensionality Reduction, Time Series Forecasting, Anomaly Detection, A/B Testing, Hypothesis Testing, Deep Learning, Datajoint
+
+✅ Soft Skills: Leadership, Teamwork, Management, Collaboration, Customer & Stakeholder relation
+
+
+I am currently seeking a full-time opportunity in the domain of Data Science, Machine Learning, Data Analytics, and Business Intelligence where I can demonstrate my capabilities and expand my knowledge spectrum. I ideate an exciting future in the industry and therefore willing to work on projects at the intersection of Business and Technology.
+
+
+You can reach out to me at my email address hbadera@cougarnet.uh.edu
+or [*Linkedin*](https://www.linkedin.com/in/himanshubadera)
+
+You can also browse my [*Portfolio*](https://hbadera.wixsite.com/himanshu-badera) to see my projects and experiences throughout my career!

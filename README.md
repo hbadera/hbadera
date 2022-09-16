@@ -1,4 +1,4 @@
-# Hi there 👋 ![image](https://user-images.githubusercontent.com/62422827/190544355-64126bb9-77a2-4cc0-a7fc-7be626806eed.png)
+# Hi there 👋
 
 ## I'm Himanshu Badera
 ## I'm a Data Scientist!

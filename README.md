@@ -1,6 +1,6 @@
-# Hi there 👋 
-## I'm Himanshu Badera
-## I'm a Data Scientist!
+## Hi there 👋 
+** I'm Himanshu Badera **
+** I'm a Data Scientist! **
 
 
 I am a graduate student at the University of Houston pursuing master's in Data Science. Driven by new challenges, brings in strong problem-solving, analytical, and data science skills along with a can-do attitude.
@@ -25,6 +25,7 @@ My expertise lies in:
 
 
 I am currently seeking a full-time opportunity in the domain of Data Science, Machine Learning, Data Analytics, and Business Intelligence where I can demonstrate my capabilities and expand my knowledge spectrum. I ideate an exciting future in the industry and therefore willing to work on projects at the intersection of Business and Technology.
+
 
 
 You can reach out to me at my email address hbadera@cougarnet.uh.edu

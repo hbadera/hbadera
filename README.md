@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Himanshu Badera
+## I'm Himanshu
 ## I'm a Data Scientist!
 
 

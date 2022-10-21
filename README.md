@@ -29,6 +29,10 @@ I am currently seeking a full-time opportunity in the domain of Data Science, Ma
 
 
 
+
+
+
+
 You can reach out to me at my email address **hbadera@cougarnet.uh.edu**
 or [**Linkedin**](https://www.linkedin.com/in/himanshubadera)
 

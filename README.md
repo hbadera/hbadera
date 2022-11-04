@@ -26,6 +26,7 @@ My expertise lies in:
 
 
 I am currently seeking a full-time opportunity in the domain of Data Science, Machine Learning, Data Analytics, and Business Intelligence where I can demonstrate my capabilities and expand my knowledge spectrum. I ideate an exciting future in the industry and therefore willing to work on projects at the intersection of Business and Technology.
+You can view recommendation letter referred by my Professor at The University of Houston [**Recommendation Letter**](file:///C:/Users/Lenovo/Desktop/New%20folder/Recomendation_Letter_Himanshu_Badera.pdf)
 
 
 

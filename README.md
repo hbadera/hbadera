@@ -33,7 +33,6 @@ You can view recommendation letter referred by my Professor at The University of
 
 
 
-
 You can reach out to me at my email address **hbadera@cougarnet.uh.edu**
 or [**Linkedin**](https://www.linkedin.com/in/himanshubadera)
 
